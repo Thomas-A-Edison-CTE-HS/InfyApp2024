@@ -91,14 +91,14 @@ h4{
 th{
 	font-size: 1em;
 	text-align: center;
-	text-indent: 5px;
+	text-indent: 1px;
 	}
 td{
 	font-size: 1.2em;
 	
 	text-align: center;
 	border:1px solid whitesmoke;
-	text-indent: 5px;
+	text-indent: 1px;
 }
 
 #l1{
@@ -112,7 +112,7 @@ td{
 	position: absolute;
 	right:10%;
 	width: 75%;
-	text-align: right;
+	text-align: left;
 }
 
 .lip{
