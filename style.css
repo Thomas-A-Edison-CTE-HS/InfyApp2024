@@ -23,7 +23,7 @@ body{
   
 }
 h1{
-	font-size: 0.8em;
+	font-size: 0.9em;
 	color:#2b5473;
 	
 	
@@ -78,7 +78,7 @@ h4{
 }
 .wave table{
 	position:relative;
-	right: 3px;
+	right: 23px;
 	width: 90%;
 	border:1px solid whitesmoke;
 }
