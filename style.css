@@ -9,7 +9,7 @@ body{
   background-color: #FABEC0;
 }
 .banner{
-	text-align:right;
+  text-align:right;
   z-index: 0;
   background-image: url("backGround.PNG");
   background-color: rgba(0, 0, 0, 0.03);
@@ -23,7 +23,7 @@ body{
   
 }
 h1{
-	font-size: 1em;
+	font-size: 0.8em;
 	color:#2b5473;
 	
 	
