@@ -68,9 +68,8 @@ h4{
 	overflow: hidden;
   overflow-x: hidden;
   overflow-y: auto;
-	
 	position:relative;
- 	right: 1%;
+ 	right: 10%;
 	left:20%;
 	transition: height 4s;
 	display:block;
