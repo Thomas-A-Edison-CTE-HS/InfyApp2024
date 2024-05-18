@@ -68,7 +68,7 @@ h4{
 	overflow: hidden;
   overflow-x: hidden;
   overflow-y: auto;
-	width: 80%;
+	
 	position:relative;
  	right: 1%;
 	left: 30%;
@@ -82,7 +82,7 @@ h4{
 }
 .wave a{
 	font-size: 1.5em;
-	width:50%;
+	
 	text-align: center;
 	border:1px solid whitesmoke;
 	
